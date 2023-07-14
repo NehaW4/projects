@@ -15,9 +15,18 @@ More images can be seen <a href='/Ecommerce%20store/'>here</a>
 
 <br/><br/>
 
-## 2) Money Tracker Landing Page - Simplify Your Finances
+## 2) Thennect - Empowering Growth Through Mentorship
 <div style="text-align: justify">
-: The Money Tracker Landing Page is a captivating web page designed to showcase the powerful features and benefits of the Money Tracker app. This project, built using HTML, CSS, animations, and keyframes, offers an immersive and visually stunning experience that effectively communicates the app's functionalities to users.</div>
+It is a dynamic mentoring platform built with React.js, offering a comprehensive ecosystem for individuals seeking guidance and knowledge sharing. This website serves as a central hub where users can explore the platform's core concept, access informative blogs, and connect with mentors to foster personal and professional growth.
+</div>
+<br/>
+<img src="https://github.com/NehaW4/projects/blob/main/Mentoring%20platform/1.Homepage.png?raw=true"/>
+More images can be seen <a href='/Mentoring%20platform/'>here</a>
+<br/><br/>
+
+## 3) Money Tracker Landing Page - Simplify Your Finances
+<div style="text-align: justify">
+The Money Tracker Landing Page is a captivating web page designed to showcase the powerful features and benefits of the Money Tracker app. This project, built using HTML, CSS, animations, and keyframes, offers an immersive and visually stunning experience that effectively communicates the app's functionalities to users.</div>
 <br/>
 <img src="https://github.com/NehaW4/projects/blob/main/App%20explainer%20website/1.%20landing%20page.png?raw=true"/>
 More images can be seen <a href='/App%20explainer%20website/'>here</a>
